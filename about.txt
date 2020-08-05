@@ -3,7 +3,7 @@
 ===================================================
 
 What Knowledge We Need?
--this somethin i added.
+-this something i added 2.
 - Html, Css
 - PHP [ GET, POST, REQUEST, Mail ]
 - Bootstrap [ getbootstrap.com ]
